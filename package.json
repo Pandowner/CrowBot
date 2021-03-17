@@ -1,0 +1,19 @@
+{
+  "name": "V9qX",
+  "version": "1.0.0",
+  "description": "ApoBot",
+  "main": "apo.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "diglet": "^2.0.3",
+    "discord.js": "^12.5.1",
+    "figlet": "^1.5.0",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apo",
+  "license": "ISC"
+}
